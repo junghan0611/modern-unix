@@ -1,0 +1,1 @@
+/home/junghan/sync/logseq/pages/guide-modern-unix-tools.md
